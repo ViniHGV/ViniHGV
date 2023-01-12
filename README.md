@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinicius Henrique
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul
-- 🌱 Estudando JavaScript e C#
+- 🌱 Estudando JavaScript e .NET C#
 - 📫 Contate-me no e-mail: ixxvinicius@gmail.com
 - 😄 Pronouns: ele/dele
 
