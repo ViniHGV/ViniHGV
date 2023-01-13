@@ -9,12 +9,13 @@
  <h2 align="center"> 🔧 Tecnologias que domino: </h2>
  <h3></h3><div style="display:flex; justify-content:space-beetwen;">
  <div align="center">
- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C#&logoColor=white">
+ <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=C#&logoColor=white">
  <img src="https://img.shields.io/badge/.NET-1b004b?style=for-the-badge&logo=.NET&logoColor=white">
-  <img src="https://img.shields.io/badge/Csharp-1b004b?style=for-the-badge&logo=Csharp&logoColor=white">
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/SQLserver-FFFFFF?style=for-the-badge&logo=sqlserver&logoColor=dark">
-  
+ <img src="https://img.shields.io/badge/Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
  <div/>
