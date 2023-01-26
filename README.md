@@ -10,7 +10,6 @@
  <h3></h3><div style="display:flex; justify-content:space-beetwen;">
  <div align="center">
   
- <img src="https://img.shields.io/badge/C-1c31a5?style=for-the-badge&logo=C#&logoColor=white">
  <img src="https://img.shields.io/badge/.NET-1b004b?style=for-the-badge&logo=.NET&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-9a8fc8?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
