@@ -23,7 +23,7 @@
   
    <h2 align="center"> 📊 Github Analytics: </h2>
   <div style="display:flex; justify-content:space-beetwen;">
-  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api?username=ViniHgv&show_icons=true&theme=tokyonight">
-  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniHgv&layout=compact&theme=tokyonight">
+  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api?username=Vinihgv&show_icons=true&theme=tokyonight">
+  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinihgv&layout=compact&theme=tokyonight">
 
  <div/>
