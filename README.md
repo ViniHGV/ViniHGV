@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinicius Henrique
+## Olá! Eu sou o Vinicius Henrique 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul.
 - 🌱 Estudando JavaScript e .NET C#.
