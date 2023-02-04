@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele.
 
 
- <h2 align="center"> 🔧 Tecnologias que domino: </h2>
+ <h2 align="center"> 🔧 Tecnologias que domino:</h2>
  <h3></h3><div style="display:flex; justify-content:space-beetwen;">
  <div align="center">
   
@@ -21,7 +21,7 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   
-   <h2 align="center"> 📊 Github Analytics: </h2>
+   <h2 align="center"> 📊 Github Analytics:</h2>
   <div style="display:flex; justify-content:space-beetwen;">
   <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api?username=VinihGv&show_icons=true&theme=tokyonight">
   <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihGv&layout=compact&theme=tokyonight">
