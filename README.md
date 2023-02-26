@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul.
 - 🌱 Estudando JavaScript e .NET C#.
-- 📫 Contate-me no e-mail: ixxvinicius@gmail.com.
+- 📫 Contate-me no E-mail: ixxvinicius@gmail.com.
 - 😄 Pronouns: ele/dele.
 
 
