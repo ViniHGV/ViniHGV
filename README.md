@@ -29,7 +29,7 @@
   
    <h2 align="center"> 📊 Github Analytics:</h2>
   <div style="display:flex; justify-content:space-beetwen;">
-  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api?username=ViniHGV&show_icons=true&theme=tokyonight">
-  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniHGV&layout=compact&theme=tokyonight">
+  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api?username=VinihgV&show_icons=true&theme=tokyonight">
+  <img width="330em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihgV&layout=compact&theme=tokyonight">
 
  <div/>
