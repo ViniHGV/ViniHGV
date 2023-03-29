@@ -18,7 +18,7 @@
 ### Back-End
  
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=&labelColor=0D1117)&nbsp; 
-![C#](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=Csharp&logoColor=008000&labelColor=0D1117)&nbsp; 
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=008000&labelColor=0D1117)&nbsp; 
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=5C2D91&labelColor=0D1117)&nbsp; 
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
