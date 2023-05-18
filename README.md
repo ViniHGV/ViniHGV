@@ -28,7 +28,7 @@
 
 <div align="center" style="display:flex; justify-content:space-beetwen;">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=VinihGV&show_icons=true&theme=dracula">
-   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinihgV&layout=compact&theme=dracula">
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniHGV&layout=compact&theme=dracula">
  
 </div>
 <br>
