@@ -24,10 +24,13 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=&labelColor=0D1117)&nbsp; 
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=008000&labelColor=0D1117)&nbsp; 
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=5C2D91&labelColor=0D1117)&nbsp; 
+![VB.NET](https://img.shields.io/badge/-VB.NET-0D1117?style=for-the-badge&logo=.net&logoColor=CC2927&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=&labelColor=0D1117)&nbsp;
-![Express.js](https://img.shields.io/badge/-express.js-0D1117?style=for-the-badge&logo=express.js&logoColor=&labelColor=0D1117)&nbsp;
+![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&logoColor=&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
 ![microsoft-sql-server](https://img.shields.io/badge/-SQL_SERVER-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=0D1117)&nbsp;
+![Access](https://img.shields.io/badge/-Access-0D1117?style=for-the-badge&logo=microsoft-Access&logoColor=CC2927&labelColor=0D1117)&nbsp;
 
 
 <div align="center" style="display:flex; justify-content:space-beetwen;">
