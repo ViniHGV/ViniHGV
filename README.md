@@ -9,6 +9,7 @@
 ![Next.js](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=Tailwindcss&labelColor=0D1117)&nbsp;
 ![Mui](https://img.shields.io/badge/-Mui-0D1117?style=for-the-badge&logo=Mui&labelColor=0D1117)&nbsp;
+![chakra-ui](https://img.shields.io/badge/-chakra_UI-0D1117?style=for-the-badge&logo=chakraui&labelColor=0D1117)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
 ![React Router](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=ReactRouter&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
