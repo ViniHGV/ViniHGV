@@ -5,7 +5,7 @@
 
 ### Front-End
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=Tailwindcss&labelColor=0D1117)&nbsp;
 ![Mui](https://img.shields.io/badge/-Mui-0D1117?style=for-the-badge&logo=Mui&labelColor=0D1117)&nbsp;
@@ -30,6 +30,7 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&logoColor=&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&l&labelColor=0D1117)&nbsp;
 ![microsoft-sql-server](https://img.shields.io/badge/-SQL_SERVER-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=0D1117)&nbsp;
 ![Access](https://img.shields.io/badge/-Access-0D1117?style=for-the-badge&logo=microsoft-Access&logoColor=CC2927&labelColor=0D1117)&nbsp;
 
