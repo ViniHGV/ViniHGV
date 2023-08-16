@@ -38,10 +38,8 @@
 <div align="center" style="display:flex; justify-content:space-beetwen;">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=VinihGV&show_icons=true&theme=dracula">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniHgv&layout=compact&theme=dracula">
- 
 </div>
 <br>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VinihgV&bg_color=282a36&color=FFF&line=dd6387&point=FFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
