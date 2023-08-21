@@ -32,7 +32,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&l&labelColor=0D1117)&nbsp;
 ![microsoft-sql-server](https://img.shields.io/badge/-SQL_SERVER-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=0D1117)&nbsp;
-![Access](https://img.shields.io/badge/-Access-0D1117?style=for-the-badge&logo=microsoft-Access&logoColor=CC2927&labelColor=0D1117)&nbsp;
 
 ### Statistics
 <div align="center" style="display:flex; justify-content:space-beetwen;">
