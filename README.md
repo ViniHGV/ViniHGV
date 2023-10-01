@@ -18,6 +18,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&logoColor=&labelColor=0D1117)&nbsp; 
 ![Bulma](https://img.shields.io/badge/-Bulma-0D1117?style=for-the-badge&logo=Bulma&logoColor=&labelColor=0D1117)&nbsp; 
 ![bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=&labelColor=0D1117)&nbsp; 
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-0D1117?style=for-the-badge&logo=shadcn_ui&logoColor=&labelColor=0D1117)&nbsp; 
 
 
 ### Back-End
