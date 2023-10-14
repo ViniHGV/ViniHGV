@@ -36,10 +36,17 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=Mongoose&l&logoColor=b45309&labelColor=0D1117)&nbsp;
 ![microsoft-sql-server](https://img.shields.io/badge/-SQL_SERVER-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=0D1117)&nbsp;
 
+
 ### Code Versioning
 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logoColor=&labelColor=0D1117)&nbsp;
+
+
+### Mobile
+
+![React-Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=Expo&logoColor=&labelColor=0D1117)&nbsp;
 
 ### Statistics
 <div align="center" style="display:flex; justify-content:space-beetwen;">
