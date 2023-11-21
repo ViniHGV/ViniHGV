@@ -50,6 +50,14 @@
 ![React-Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=for-the-badge&logo=Expo&logoColor=&labelColor=0D1117)&nbsp;
 
+
+### Tools
+
+![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=2AA1F1&labelColor=)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=fff&labelColor=)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=&labelColor=)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=Insomnia&logoColor=5849BE&labelColor=)&nbsp;
+
 ### Statistics
 <div align="center" style="display:flex; justify-content:space-beetwen;">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=VinihGV&show_icons=true&theme=dracula">
