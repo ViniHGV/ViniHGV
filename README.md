@@ -25,14 +25,14 @@
 
 ### Back-End
 
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=7c3aed&labelColor=0D1117)&nbsp; 
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=&labelColor=0D1117)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&logoColor=&labelColor=0D1117)&nbsp;
 ![NestJs](https://img.shields.io/badge/-Nestjs-0D1117?style=for-the-badge&logo=Nestjs&logoColor=CC2927&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=&labelColor=0D1117)&nbsp; 
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=7c3aed&labelColor=0D1117)&nbsp; 
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&l&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&l&labelColor=0D1117)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=Mongoose&l&logoColor=b45309&labelColor=0D1117)&nbsp;
