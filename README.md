@@ -27,6 +27,8 @@
 
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=7c3aed&labelColor=0D1117)&nbsp; 
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
+![ASP.NET](https://img.shields.io/badge/-ASP.NET_CORE-0D1117?style=for-the-badge&logo=Microsoft-ASP.NET_CORE&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
+![Entity-Framework](https://img.shields.io/badge/-Entity_Framework-0D1117?style=for-the-badge&logo=ef_core&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&logoColor=&labelColor=0D1117)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=Fastify&logoColor=&labelColor=0D1117)&nbsp;
 ![NestJs](https://img.shields.io/badge/-Nestjs-0D1117?style=for-the-badge&logo=Nestjs&logoColor=CC2927&labelColor=0D1117)&nbsp;
