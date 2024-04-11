@@ -56,6 +56,7 @@
 
 ### Tools
 
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D1117?style=for-the-badge&logo=IntelliJIDEA&logoColor=&labelColor=0D1117)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=2AA1F1&labelColor=)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=Figma&logoColor=fff&labelColor=)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&logoColor=&labelColor=)&nbsp;
