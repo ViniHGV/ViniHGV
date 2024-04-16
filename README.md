@@ -34,7 +34,8 @@
 ![NestJs](https://img.shields.io/badge/-Nestjs-0D1117?style=for-the-badge&logo=Nestjs&logoColor=CC2927&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=&labelColor=0D1117)&nbsp; 
+![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=red)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=ffff00&labelColor=0D1117)&nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&l&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&l&labelColor=0D1117)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-Mongoose-0D1117?style=for-the-badge&logo=Mongoose&l&logoColor=b45309&labelColor=0D1117)&nbsp;
