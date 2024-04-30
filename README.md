@@ -25,6 +25,8 @@
 
 ### Back-End
 
+![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=red)
+![Java](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=green)
 ![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=7c3aed&labelColor=0D1117)&nbsp; 
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_CORE-0D1117?style=for-the-badge&logo=Microsoft-ASP.NET_CORE&logoColor=8b5cf6&labelColor=0D1117)&nbsp; 
@@ -34,7 +36,6 @@
 ![NestJs](https://img.shields.io/badge/-Nestjs-0D1117?style=for-the-badge&logo=Nestjs&logoColor=CC2927&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=ffff00&labelColor=0D1117)&nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&l&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&l&labelColor=0D1117)&nbsp;
